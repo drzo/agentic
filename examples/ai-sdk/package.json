@@ -13,7 +13,7 @@
     "@agentic/weather": "workspace:*",
     "@ai-sdk/openai": "^0.0.24",
     "@browserbasehq/sdk": "^1.4.2",
-    "ai": "^3.1.30",
+    "ai": "^5.0.52",
     "openai": "^4.49.0",
     "zod": "^3.23.8"
   },

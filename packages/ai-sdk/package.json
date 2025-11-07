@@ -33,12 +33,12 @@
   },
   "peerDependencies": {
     "@agentic/core": "workspace:*",
-    "ai": "^3.1.30"
+    "ai": "^5.0.52"
   },
   "devDependencies": {
     "@agentic/core": "workspace:*",
     "@agentic/tsconfig": "workspace:*",
-    "ai": "^3.1.30"
+    "ai": "^5.0.52"
   },
   "publishConfig": {
     "access": "public"
